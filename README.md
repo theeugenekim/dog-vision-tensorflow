@@ -4,7 +4,7 @@ This [notebook](https://github.com/theeugenekim/dog-vision-tensorflow/blob/main/
 
 It's a run through of using an existing MobileNetv2 model using Keras on a dog breed dataset.
 
-The dataset can be found from the [Kaggle Compeition](https://www.kaggle.com/c/dog-breed-identification) found here.
+The dataset can be pulled from the [Dog Vision Kaggle Compeition](https://www.kaggle.com/c/dog-breed-identification).
 
 For more information on MobileNetv2 check out the documentation at [TensorFlow Hub](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4).
 
