@@ -1,4 +1,4 @@
-# 🐕 TensorFlow Dog Breed Classification using MobileNetv2
+# 🐶 TensorFlow Dog Breed Classification using MobileNetv2
 
 ![image](https://user-images.githubusercontent.com/24239943/116844775-edec5800-ab98-11eb-8df2-ca04da2df44e.png)
 
