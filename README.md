@@ -1,8 +1,8 @@
 # TensorFlow Dog Breed Classification using MobileNetv2
 
-This [notebook](https://github.com/theeugenekim/dog-vision-tensorflow/blob/main/dog_vision_machine_learning.ipynb) contains the code related to one of the Zero To Mastery course projects.
+This [notebook](https://github.com/theeugenekim/dog-vision-tensorflow/blob/main/dog_vision_machine_learning.ipynb) contains the code for a dog breed classifier using transfer Learning and Tensorflow/Keras.
 
-It's a run through of using an existing MobileNetv2 model using Keras on a dog breed dataset.
+It's also a run through of using an existing MobileNetv2 model on a dog breed dataset.
 
 The dataset can be pulled from the [Dog Vision Kaggle Compeition](https://www.kaggle.com/c/dog-breed-identification).
 
