@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/theeugenekim/tensorflow-dog-vision-classifier-2.0/blob/main/dog_vision_machine_learning.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]('https://colab.research.google.com/github/theeugenekim/tensorflow-dog-vision-classifier-2.0/blob/main/dog_vision_machine_learning.ipynb']
 
 # 🐶 TensorFlow Dog Breed Classification using MobileNetv2
 
