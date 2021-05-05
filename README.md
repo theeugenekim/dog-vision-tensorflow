@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/24239943/116844775-edec5800-ab98-11eb-8df2-ca04da2df44e.png)
 
+I started this Tensorflow project using GPU to better understand the benefits and structure of Tensorflow.
+
 This [notebook](https://github.com/theeugenekim/dog-vision-tensorflow/blob/main/dog_vision_machine_learning.ipynb) contains the code for a dog breed classifier using transfer Learning and Tensorflow/Keras.
 
 It's also a run through of using an existing MobileNetv2 model on a dog breed dataset.
