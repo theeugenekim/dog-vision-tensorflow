@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/24239943/116844775-edec5800-ab98-11eb-8df2-ca04da2df44e.png)
 
-I started this Tensorflow project using GPU to better understand the benefits and structure of Tensorflow.
+I started this Tensorflow project using GPU to better understand the benefits and structure of Tensorflow using Python3.
 
 You can follow along the notebook, where I have left notes of each step of the machine learning process in Google Colab.
 
