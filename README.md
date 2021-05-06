@@ -20,4 +20,4 @@ All the files required are within this repository, although you may need to cust
 
 PS. If you have any questions or corrections, please let me know through a pull request or email: theeugenekim@gmail.com.
 
-Warm thanks to Daniel Bourke for the guidance.
+Warm thanks to Daniel Bourke for guiding me.
