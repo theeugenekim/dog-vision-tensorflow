@@ -19,3 +19,5 @@ For more information on MobileNetv2 check out the documentation at [TensorFlow H
 All the files required are within this repository, although you may need to customize a your Google Drive to make your filenames consistent when savings logs or reading images, for example.
 
 PS. If you have any questions or corrections, please let me know through a pull request or email: theeugenekim@gmail.com.
+
+Thanks to Daniel Bourke for all the helpful resources.
